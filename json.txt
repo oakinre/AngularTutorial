@@ -1,0 +1,9 @@
+{
+        "id": 1,
+        "name": "Daniel Craig",
+        "email": "daniel@getarrays.com",
+        "jobTitle": "JavaScript",
+        "phone": "4570090332",
+        "imageUrl": "https://www.bootdey.com/app/webroot/img/Content/avatar/avatar1.png",
+        "employeeCode": "2d58f244-1675-4853-8ed8-b88f9094733d"
+    }
